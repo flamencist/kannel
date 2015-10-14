@@ -1,5 +1,5 @@
 # kannel
-Устновка kannel 1.5.0 на ubuntu 14.04
+Установка kannel 1.5.0 на ubuntu 14.04
 
 Инструкция по установке: https://github.com/flamencist/kannel/wiki/Install-Instruction
 
