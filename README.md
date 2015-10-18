@@ -3,4 +3,7 @@
 
 Инструкция по установке: https://github.com/flamencist/kannel/wiki/Install-Instruction
 
-Видеоинструкция по установке: http://www.youtube.com/watch?v=7OIskjpbFQU
+Видеоинструкция по установке: 
+
+- http://www.youtube.com/watch?v=7OIskjpbFQU
+- http://www.youtube.com/watch?v=vSNgeAYTu7E
