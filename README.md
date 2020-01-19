@@ -7,3 +7,12 @@ Video:
 
 - http://www.youtube.com/watch?v=7OIskjpbFQU
 - http://www.youtube.com/watch?v=vSNgeAYTu7E
+
+
+### Authors
+
+Alexander Chermyanin / [LinkedIn](https://www.linkedin.com/in/alexander-chermyanin)
+
+
+
+Contributions and bugs reports are welcome.
